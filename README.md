@@ -1,0 +1,2 @@
+# SpringBootMail
+Spring Boot Mail
